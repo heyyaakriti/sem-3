@@ -1,3 +1,4 @@
+//EventEmitter
 const EventEmitter=require('events'); //class
 
 const myEmitter=new EventEmitter();  //object creation
